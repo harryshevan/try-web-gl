@@ -1,3 +1,3 @@
 # try-web-gl
 
-https://baplok.github.io/try-web-gl/
+https://harryshevan.github.io/try-web-gl/
